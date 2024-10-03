@@ -16,7 +16,7 @@ Demo video 1
 
 https://www.youtube.com/watch?v=4T1WK0InVgU&ab_channel=DumitruStratulat
 
-
+![My cool animation](demo.gif)
 
 ## Installation
 
