@@ -1,21 +1,44 @@
-<<<<<<< HEAD
-# flutter-goal-tracker
-My first flutter project
-=======
-# goal_tracker
 
-A new Flutter project.
+# Goal Tracker Mobile App build using Flutter 3.25 beta
 
-## Getting Started
+Goal Tracker is an app that monitors and records the progress of users' goals.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> Initial commit
+## Objectives
+
+The reason I created the project is to familiarize myself with Flutter.
+
+## Demo
+
+Demo video 1
+
+https://www.youtube.com/watch?v=4T1WK0InVgU&ab_channel=DumitruStratulat
+
+
+
+## Installation
+
+Install Flutter using documentation.
+
+https://docs.flutter.dev/get-started/install
+
+Some of the widgets used in the project are not deployed on stable channel of flutter.Here how to switch to beta channel.
+
+```bash
+  flutter channel beta
+  flutter upgrade
+```
+After installation run emulator, then
+
+```bash
+  flutter run
+```
+
+    
+
+## Trello
+
+Trello link: https://trello.com/b/uHVwpSCG/kanban-goal-tracker
+
