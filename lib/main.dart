@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 import 'view/home.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
 void main() {
-  runApp(const MyApp());
+  runApp(
+    const ProviderScope(
+     child: MyApp(),
+  ));
 }
 
 class MyApp extends StatelessWidget {
@@ -12,10 +17,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.yellow),
+
         useMaterial3: true,
       ),
-      home: const MainPage(title: "MainPage"),
+      home: const MainPage(title: "Planner"),
     );
   }
 }

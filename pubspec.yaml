@@ -37,6 +37,10 @@ dependencies:
   cupertino_icons: ^1.0.8
   http: ^1.2.2
   curved_navigation_bar: ^1.0.6
+  riverpod: ^2.5.1
+  flutter_riverpod: ^2.5.1
+  shared_preferences: ^2.3.2
+  uuid: ^4.5.1
 
 dev_dependencies:
   flutter_test:
