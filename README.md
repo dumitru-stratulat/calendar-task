@@ -1,5 +1,5 @@
 
-# Goal Tracker Mobile App build using Flutter 3.25 beta
+# Calendar Task Mobile App build using Flutter 3.25 beta + Riverpod
 
 Goal Tracker is an app that monitors and records the progress of users' goals.
 
